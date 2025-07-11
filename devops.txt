@@ -1,1 +1,5 @@
-My first Devops file
+                       ESSENTIAL LINUX COMMANDS 
+ls :- list all files and directories in the present working
+ls -l :- list show filews
+
+
